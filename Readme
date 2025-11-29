@@ -1,7 +1,10 @@
-echo "# Cryptic-Shooter" >> README.md  # Creates a README file
-git init                               # Initializes a local Git repo
-git add README.md                      # Adds the README to the staging area
-git commit -m "first commit"           # Creates the first commit
-git branch -M main                     # Sets the branch name to 'main'
-git remote add origin https://gi...    # Links your local repo to this GitHub repo
-git push -u origin main                # Pushes your code to GitHub
+# Cryptic-Shooter Repository ⚔️
+
+This is the development repository for the Cryptic-Shooter FPS game.
+
+The player will hunt down and eliminate supernatural threats like witches, werewolves, and ogres.
+
+## Project Goals
+* Implement core first-person shooting mechanics.
+* Design various mythical creature enemy types.
+* Create atmospheric levels for creature encounters.
