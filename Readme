@@ -1,0 +1,7 @@
+echo "# Cryptic-Shooter" >> README.md  # Creates a README file
+git init                               # Initializes a local Git repo
+git add README.md                      # Adds the README to the staging area
+git commit -m "first commit"           # Creates the first commit
+git branch -M main                     # Sets the branch name to 'main'
+git remote add origin https://gi...    # Links your local repo to this GitHub repo
+git push -u origin main                # Pushes your code to GitHub
